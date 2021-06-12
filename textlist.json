@@ -1,3 +1,20 @@
 "text":{
-	"types":["header":["1", "2", "3", "4", "5"], "paragraph"]
+	"types":{
+		"header":["h1", "h2", "h3", "h4", "h5"],
+		"paragraph":"p"
+	}
+	"fontsize":{
+		"h1":"14px",
+		"h2":"16px",
+		"h3":"18px",
+		"h4":"20px",
+		"p":"11px"
+	}
+	"fontsize-px":{
+		"11px":11,
+		"14px":14,
+		"16px":16,
+		"18px":18,
+		"20px":20
+	}
 }
